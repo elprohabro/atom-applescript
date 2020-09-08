@@ -19,5 +19,10 @@
       "description": "Automatically decompile (and recompile) `.scpt` files using native `osacompile`/`osadecompile` utilities."
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "apmInstallSource": {
+    "type": "git",
+    "source": "https://github.com/elprohabro/atom-applescript.git",
+    "sha": "3fa49b1d52cb6760c4edba483371afa94bcd309c"
+  }
 }

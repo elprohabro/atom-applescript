@@ -4,6 +4,8 @@ AppleScript language support for Atom. Converted from [https://github.com/textma
 
 ## Changelog
 
+* `0.3.1` Added handling of large scripts and also corrected comments
+
 * `0.3.0` Add package-setting to control auto-compilation
 
 * `0.2.2` Set correct comment style
